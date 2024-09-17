@@ -1,0 +1,7 @@
+*
+!.gitignore
+# Whitelist
+!.zshrc
+!.vimrc
+!.tmux.conf
+!.fonts.conf
