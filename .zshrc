@@ -43,9 +43,6 @@ bindkey \^U backward-kill-line # Bash
 alias chrome="google-chrome-stable"
 alias shut="pkill chrome && shutdown now"
 
-# LCTL(only)=Esc
-xcape -e 'Control_L=Escape'
-
 # WSL
 # DISPLAY
 #export HOST_IP=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}')
